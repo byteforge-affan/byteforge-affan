@@ -51,5 +51,5 @@ ByteForge Studio helps students, startups, small businesses, and personal brands
 ## Connect With Me
 
 Portfolio: https://byteforge-affan-portfolio.netlify.app/  
-LinkedIn: paste-your-linkedin-link-here  
+LinkedIn: https://www.linkedin.com/in/muhammad-affan-27b96943b 
 Email: byteforgestudio.pk@gmail.com
