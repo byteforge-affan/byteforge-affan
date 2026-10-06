@@ -98,40 +98,16 @@ A responsive perfume website focused on premium product presentation and polishe
 
 ---
 
-## What I'm Building Now
+## Development Roadmap
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Current Build
-**Responsive, database-backed web applications**
-
-Moving beyond frontend-only projects by connecting interface design with application logic and structured data.
-
+**NOW**　Building responsive, database-backed web applications  
 `PHP`　`MySQL`　`ASP.NET MVC`
 
-</td>
-<td width="50%" valign="top">
-
-### ↗ Next Level
-**Complete full-stack product workflows**
-
-Improving backend architecture, database design and the way frontend, server logic and data work together.
-
+**NEXT**　Strengthening backend architecture, database design and complete product workflows  
 `BACKEND`　`DATABASES`　`FULL-STACK`
 
-</td>
-</tr>
-</table>
+**WORKFLOW**　`HTML / CSS / JS` → `PHP / ASP.NET` → `MySQL` → `Git / GitHub`
 
-<div align="center">
-
-**Core workflow**
-
-`HTML / CSS / JS` → `PHP / ASP.NET` → `MySQL` → `Git / GitHub`
-
-</div>
 ---
 
 <div align="center">
@@ -140,16 +116,10 @@ Improving backend architecture, database design and the way frontend, server log
 
 **Design · Develop · Build · Evolve**
 
-A growing developer brand focused on modern websites, practical web systems and professional digital experiences.
+<sub>Modern websites · Practical web systems · Professional digital experiences</sub>
 
-<br>
+<br><br>
 
-### Let's build something useful.
-
-[![Portfolio](https://img.shields.io/badge/View_My_Work-21C7E8?style=for-the-badge&logo=netlify&logoColor=07111F)](https://byteforge-affan-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect-2ECFC2?style=for-the-badge&logo=linkedin&logoColor=07111F)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
-[![Email](https://img.shields.io/badge/Let's_Talk-FBC02D?style=for-the-badge&logo=gmail&logoColor=07111F)](mailto:byteforgestudio.pk@gmail.com)
-
-<sub>ByteForge Studio · Built by Muhammad Affan</sub>
+**Built by Muhammad Affan**
 
 </div>
