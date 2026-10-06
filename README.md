@@ -1,125 +1,84 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/byteforge-affan/my-portfolio/main/images/byteforge-logo.png" width="280" alt="ByteForge Studio" />
+<img src="https://raw.githubusercontent.com/byteforge-affan/my-portfolio/main/images/byteforge-logo.png" width="150" alt="ByteForge Studio" />
 
-<br><br>
+<img src="assets/hero.svg" width="100%" alt="Muhammad Affan — Frontend Developer and aspiring Full-Stack Developer. ByteForge Studio. Currently building with PHP, MySQL and ASP.NET MVC." />
 
-# Muhammad Affan
-
-### Frontend Developer · Aspiring Full-Stack Developer
-
-Building **modern interfaces**, **responsive experiences** and **practical web systems**.
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-21C7E8?style=for-the-badge&logo=netlify&logoColor=07111F)](https://byteforge-affan-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-2ECFC2?style=for-the-badge&logo=linkedin&logoColor=07111F)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
-[![Email](https://img.shields.io/badge/LET'S_TALK-FBC02D?style=for-the-badge&logo=gmail&logoColor=07111F)](mailto:byteforgestudio.pk@gmail.com)
-
-<br>
-
-<code>FRONTEND</code>　•　<code>RESPONSIVE UI</code>　•　<code>WEB SYSTEMS</code>　•　<code>FULL-STACK JOURNEY</code>
-
-</div>
----
-
-## About
-
-I'm **Muhammad Affan**, a frontend-focused developer from Karachi, Pakistan. I enjoy turning ideas into responsive websites and useful digital products with clean interfaces and practical functionality.
-
-Right now I'm strengthening my **PHP, MySQL, ASP.NET MVC and database** skills as I move toward full-stack development.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,dotnet,git,github,vscode,wordpress&perline=11" alt="Muhammad Affan tech stack" />
+<a href="https://byteforge-affan-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE_%E2%86%97-21C7E8?style=for-the-badge&labelColor=07111F" alt="View portfolio" /></a>
+<a href="https://www.linkedin.com/in/muhammad-affan-27b96943b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2ECFC2?style=for-the-badge&labelColor=07111F" alt="Connect on LinkedIn" /></a>
+<a href="mailto:byteforgestudio.pk@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET%27S_TALK-FBC02D?style=for-the-badge&labelColor=07111F" alt="Send an email" /></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## Featured Work
+<h3 align="center"><code>01 / ABOUT</code></h3>
 
-<table>
+<img src="assets/about.svg" width="100%" alt="Muhammad Affan, frontend-focused developer from Karachi, Pakistan and aspiring full-stack developer. Current direction: PHP, MySQL, ASP.NET MVC and database-backed web applications." />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center"><code>02 / TECH ECOSYSTEM</code></h3>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-### ⚡ ByteForge Portfolio
-My personal developer portfolio showcasing projects, capabilities and the ByteForge Studio identity.
-
-**HTML · CSS · JavaScript · Responsive Design**
-
-[Live Website ↗](https://byteforge-affan-portfolio.netlify.app/) · [Repository →](https://github.com/byteforge-affan/my-portfolio)
-
+<td align="center" width="50%">
+<sub><b><code>FRONTEND</code></b></sub><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap" /><br>
+<sub>HTML · CSS · JavaScript · Bootstrap</sub>
 </td>
-<td width="50%" valign="top">
-
-### 📦 Z&S Enterprises
-A responsive business website for a packaging and printing company with a professional company-focused experience.
-
-**HTML · CSS · JavaScript**
-
-[Live Website ↗](https://zandsenterprises.com/) · [Repository →](https://github.com/byteforge-affan/ZandS_Enterprises)
-
+<td align="center" width="50%">
+<sub><b><code>BACKEND</code></b></sub><br><br>
+<img src="https://skillicons.dev/icons?i=php,dotnet" alt="PHP, .NET / ASP.NET" /><br>
+<sub>PHP · .NET / ASP.NET</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 💼 Jobix
-A recruitment and job portal system combining role-based workflows with PHP/MySQL application functionality.
-
-**PHP · MySQL · Bootstrap · JavaScript**
-
-[Repository →](https://github.com/byteforge-affan/Jobix)
-
+<td align="center" width="50%">
+<sub><b><code>DATABASE</code></b></sub><br><br>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br>
+<sub>MySQL</sub>
 </td>
-<td width="50%" valign="top">
-
-### ✦ Paarees Luxury Scents
-A responsive perfume website focused on premium product presentation and polished frontend design.
-
-**HTML · CSS · Bootstrap · JavaScript**
-
-[Live Website ↗](https://paarees-luxury-scents.netlify.app/) · [Repository →](https://github.com/byteforge-affan/E-PROJECT-PAAREES-PERFUME-)
-
+<td align="center" width="50%">
+<sub><b><code>TOOLS / WORKFLOW</code></b></sub><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" alt="Git, GitHub, VS Code, WordPress" /><br>
+<sub>Git · GitHub · VS Code · WordPress</sub>
 </td>
 </tr>
 </table>
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
 
-[**Explore all repositories →**](https://github.com/byteforge-affan?tab=repositories)
+<h3 align="center"><code>03 / FEATURED PROJECTS</code></h3>
 
-</div>
+<p align="center">
+<img src="assets/projects/portfolio.svg" width="100%" alt="ByteForge Portfolio — personal developer portfolio showcasing projects, capabilities and the ByteForge Studio identity. HTML, CSS, JavaScript, Responsive Design." /><br>
+<a href="https://byteforge-affan-portfolio.netlify.app/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/my-portfolio">Repository →</a>
+</p>
 
----
+<p align="center">
+<img src="assets/projects/zs-enterprises.svg" width="100%" alt="Z&amp;S Enterprises — responsive business website for a packaging and printing company. HTML, CSS, JavaScript." /><br>
+<a href="https://zandsenterprises.com/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/ZandS_Enterprises">Repository →</a>
+</p>
 
-## Development Roadmap
+<p align="center">
+<img src="assets/projects/jobix.svg" width="100%" alt="Jobix — recruitment and job portal system with role-based workflows and PHP/MySQL application functionality. PHP, MySQL, Bootstrap, JavaScript." /><br>
+<a href="https://github.com/byteforge-affan/Jobix"><b>Repository →</b></a>
+</p>
 
-**NOW**　Building responsive, database-backed web applications  
-`PHP`　`MySQL`　`ASP.NET MVC`
+<p align="center">
+<img src="assets/projects/paarees.svg" width="100%" alt="Paarees Luxury Scents — responsive perfume website focused on premium product presentation. HTML, CSS, Bootstrap, JavaScript." /><br>
+<a href="https://paarees-luxury-scents.netlify.app/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/E-PROJECT-PAAREES-PERFUME-">Repository →</a>
+</p>
 
-**NEXT**　Strengthening backend architecture, database design and complete product workflows  
-`BACKEND`　`DATABASES`　`FULL-STACK`
+<p align="center"><a href="https://github.com/byteforge-affan?tab=repositories"><sub><code>EXPLORE ALL REPOSITORIES →</code></sub></a></p>
 
-**WORKFLOW**　`HTML / CSS / JS` → `PHP / ASP.NET` → `MySQL` → `Git / GitHub`
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+<h3 align="center"><code>04 / DEVELOPMENT JOURNEY</code></h3>
 
-<div align="center">
+<img src="assets/roadmap.svg" width="100%" alt="Now: building responsive, database-backed web applications with PHP, MySQL and ASP.NET MVC. Next: strengthening backend architecture, database design and complete full-stack workflows. Workflow: HTML/CSS/JavaScript, then PHP/ASP.NET, then MySQL, then Git/GitHub." />
 
-### ByteForge Studio
+<img src="assets/divider.svg" width="100%" alt="" />
 
-**Design · Develop · Build · Evolve**
-
-<sub>Modern websites · Practical web systems · Professional digital experiences</sub>
-
-<br><br>
-
-**Built by Muhammad Affan**
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="ByteForge Studio — Design · Develop · Build · Evolve. Modern websites · Practical web systems · Professional digital experiences. Built by Muhammad Affan." />
