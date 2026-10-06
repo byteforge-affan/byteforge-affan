@@ -95,15 +95,23 @@ A responsive perfume website focused on premium product presentation and polishe
 
 ---
 
-## GitHub
+## Development Snapshot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=byteforge-affan&show_icons=true&hide_border=true&bg_color=00000000&title_color=21C7E8&icon_color=FBC02D&text_color=8B949E&ring_color=2ECFC2" alt="Muhammad Affan GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteforge-affan&layout=compact&hide_border=true&bg_color=00000000&title_color=21C7E8&text_color=8B949E" alt="Muhammad Affan top languages" />
+| FRONTEND | BACKEND | DATABASE | WORKFLOW |
+| :---: | :---: | :---: | :---: |
+| HTML · CSS · JavaScript · Bootstrap | PHP · ASP.NET MVC | MySQL | Git · GitHub · VS Code |
 
 </div>
 
+> **Current direction:** turning frontend experience into complete, database-backed web applications.
+
+<div align="center">
+
+[**See my contribution activity on GitHub ↓**](https://github.com/byteforge-affan#js-contribution-activity)
+
+</div>
 ---
 
 ## Current Focus
