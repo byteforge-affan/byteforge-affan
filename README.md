@@ -168,17 +168,30 @@ A recruitment and job-portal system combining frontend UI with PHP/MySQL applica
 
 ---
 
-## ↗ Current Trajectory
+## ↗ Now / Next
 
-```text
-FRONTEND CRAFT        █████████░  Building stronger interfaces
-PHP + MYSQL           ███████░░░  Building practical systems
-ASP.NET MVC           ██████░░░░  Expanding backend thinking
-DATABASE DESIGN       ██████░░░░  Structuring better data
-FULL-STACK            █████░░░░░  Connecting the complete workflow
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Next checkpoint:** ship more complete real-world projects where interface, application logic and data work together.
+### NOW
+- Building stronger responsive interfaces
+- Expanding PHP + MySQL application skills
+- Improving database and backend thinking
+- Shipping more complete real-world projects
+
+</td>
+<td width="50%" valign="top">
+
+### NEXT
+- Connect frontend + backend into full products
+- Strengthen ASP.NET MVC workflows
+- Add more production-ready case studies
+- Grow ByteForge Studio through useful work
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -186,11 +199,13 @@ FULL-STACK            █████░░░░░  Connecting the complete wo
 
 > **Ideas are easy. Building them well is the craft.**
 
-ByteForge Studio is the identity behind my work — a growing space for **modern websites, practical web systems and professional digital experiences**.
+ByteForge Studio is the identity behind my work: **modern websites, practical web systems and professional digital experiences**.
 
-Rather than trying to be everything, ByteForge is being built around three principles:
+<div align="center">
 
-**Useful by design** · **Clean in execution** · **Better with every iteration**
+`USEFUL BY DESIGN`　·　`CLEAN IN EXECUTION`　·　`BUILT TO IMPROVE`
+
+</div>
 
 ---
 
