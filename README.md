@@ -1,152 +1,184 @@
 <div align="center">
 
-# Muhammad Affan
+# `< Muhammad Affan />`
 
-### Frontend Developer • Aspiring Full-Stack Developer
+### Frontend Developer · Building toward Full-Stack
 
-**Founder of ByteForge Studio**
+**Founder — ByteForge Studio**
 
-*Turning ideas into clean, responsive and functional digital experiences.*
+`DESIGN` · `DEVELOP` · `BUILD` · `EVOLVE`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://byteforge-affan-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byteforgestudio.pk@gmail.com)
+<br>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Muhammad Affan**, a frontend-focused developer from Karachi, Pakistan, building modern websites and practical web systems.
-
-I enjoy turning ideas into responsive, user-friendly interfaces and improving them through real projects. I'm currently expanding into backend development, databases and full-stack workflows while building **ByteForge Studio**.
-
-- 🔭 Building websites, business solutions and web systems
-- 🌱 Learning backend development, PHP/MySQL, ASP.NET MVC and database design
-- 🎯 Working toward becoming a full-stack developer
-- ⚡ Focused on clean UI, responsive design and practical solutions
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-21C7E8?style=for-the-badge&logo=netlify&logoColor=07111F)](https://byteforge-affan-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-2ECFC2?style=for-the-badge&logo=linkedin&logoColor=07111F)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
+[![Email](https://img.shields.io/badge/LET'S_TALK-FBC02D?style=for-the-badge&logo=gmail&logoColor=07111F)](mailto:byteforgestudio.pk@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### `> whoami`
 
-### 🏢 Z&S Enterprises
-Business website created for a packaging and manufacturing company, focused on professional presentation and responsive design.
+I'm **Muhammad Affan**, a frontend-focused developer from Karachi, Pakistan. I build responsive interfaces, business websites and practical web systems — then keep pushing them beyond the first version.
 
-**Focus:** Business Website • Responsive UI • Frontend Development
+My current direction is simple: **stronger frontend craft → deeper backend knowledge → complete full-stack products.**
 
-[View Repository](https://github.com/byteforge-affan/ZandS_Enterprises)
-
-### 🛍️ Shopping Website
-A web-based shopping system built while developing practical PHP/MySQL and e-commerce workflow skills.
-
-**Focus:** PHP • MySQL • Web System
-
-[View Repository](https://github.com/byteforge-affan/Shopping-Website)
-
-### 🌸 Paarees Perfume
-A premium perfume website with product-focused sections and a polished responsive interface.
-
-**Focus:** HTML • CSS • Bootstrap • Frontend Design
-
-[View Repository](https://github.com/byteforge-affan/E-PROJECT-PAAREES-PERFUME-)
-
-### 💼 ByteForge Portfolio
-My personal developer portfolio presenting projects, skills and the ByteForge Studio identity.
-
-**Focus:** Portfolio • UI/UX • Responsive Web Design
-
-[Live Website](https://byteforge-affan-portfolio.netlify.app/) • [View Repository](https://github.com/byteforge-affan/my-portfolio)
-
----
-
-## 💡 What I Build
-
-- Responsive websites and landing pages
-- Portfolio and personal-brand websites
-- Business websites
-- PHP/MySQL web systems
-- WordPress websites
-- Professional digital documents and MS Office work
-
----
-
-## 📚 Currently Exploring
-
-```text
-Backend Development  ███████░░░
-PHP & MySQL          ███████░░░
-ASP.NET MVC          ██████░░░░
-Database Design      ██████░░░░
-Full-Stack Workflow  █████░░░░░
+```js
+const affan = {
+  role: "Frontend Developer",
+  studio: "ByteForge Studio",
+  builds: ["Responsive Websites", "Business Solutions", "Web Systems"],
+  learning: ["Backend Development", "PHP / MySQL", "ASP.NET MVC", "Database Design"],
+  mindset: "Build. Learn. Improve. Repeat."
+};
 ```
 
 ---
 
-## 📊 GitHub Overview
+## ⚡ Build System
+
+<table>
+<tr>
+<td width="25%" align="center"><b>01 · INTERFACE</b><br><sub>Responsive layouts<br>Clean visual systems</sub></td>
+<td width="25%" align="center"><b>02 · EXPERIENCE</b><br><sub>Useful interactions<br>Clear user journeys</sub></td>
+<td width="25%" align="center"><b>03 · SYSTEM</b><br><sub>PHP / MySQL<br>Practical workflows</sub></td>
+<td width="25%" align="center"><b>04 · ITERATE</b><br><sub>Test · refine<br>Keep improving</sub></td>
+</tr>
+</table>
+
+---
+
+## 🧰 Developer Toolkit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=byteforge-affan&show_icons=true&hide_border=true&theme=transparent" alt="Muhammad Affan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteforge-affan&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+**CORE**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**BACKEND + DATA**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**WORKFLOW**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 </div>
 
 ---
 
-## ⚡ ByteForge Studio
+## ◈ Selected Work
 
-> **Design. Develop. Build. Evolve.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**ByteForge Studio** is my growing developer brand focused on building modern websites, web systems and professional digital experiences for students, startups, small businesses and personal brands.
+### ByteForge Portfolio
+My personal developer space — projects, capabilities and the evolving ByteForge identity.
 
-The goal is simple: combine **clean design, practical development and continuous improvement** to turn ideas into useful digital products.
+`HTML` `CSS` `JavaScript`
+
+[Live ↗](https://byteforge-affan-portfolio.netlify.app/) · [Source →](https://github.com/byteforge-affan/my-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### Z&S Enterprises
+A business-facing website built around clear presentation, responsive structure and a professional company presence.
+
+`Business Web` `Responsive UI`
+
+[Repository →](https://github.com/byteforge-affan/ZandS_Enterprises)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Shopping Website
+A practical shopping system exploring product flows, PHP/MySQL development and e-commerce logic.
+
+`PHP` `MySQL` `Web System`
+
+[Repository →](https://github.com/byteforge-affan/Shopping-Website)
+
+</td>
+<td width="50%" valign="top">
+
+### Paarees Perfume
+A product-focused perfume experience built with a premium visual direction and responsive frontend.
+
+`Frontend` `Bootstrap` `Product UI`
+
+[Repository →](https://github.com/byteforge-affan/E-PROJECT-PAAREES-PERFUME-)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◉ Developer Telemetry
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=byteforge-affan&show_icons=true&hide_border=true&bg_color=00000000&title_color=21C7E8&icon_color=FBC02D&text_color=8B949E&ring_color=2ECFC2" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteforge-affan&layout=compact&hide_border=true&bg_color=00000000&title_color=21C7E8&text_color=8B949E" alt="Top languages" />
+
+<br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=byteforge-affan&bg_color=00000000&color=8B949E&line=21C7E8&point=FBC02D&area=true&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## ↗ Current Trajectory
+
+```text
+FRONTEND CRAFT        █████████░  Building stronger interfaces
+PHP + MYSQL           ███████░░░  Building practical systems
+ASP.NET MVC           ██████░░░░  Expanding backend thinking
+DATABASE DESIGN       ██████░░░░  Structuring better data
+FULL-STACK            █████░░░░░  Connecting the complete workflow
+```
+
+**Next checkpoint:** ship more complete real-world projects where interface, application logic and data work together.
+
+---
+
+## ◇ ByteForge Studio
+
+> **Ideas are easy. Building them well is the craft.**
+
+ByteForge Studio is the identity behind my work — a growing space for **modern websites, practical web systems and professional digital experiences**.
+
+Rather than trying to be everything, ByteForge is being built around three principles:
+
+**Useful by design** · **Clean in execution** · **Better with every iteration**
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
+### `// OPEN TO BUILDING SOMETHING USEFUL`
 
-Have a project, idea or collaboration in mind?
+Projects · Collaboration · Learning · Opportunities
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://byteforge-affan-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
-[![Email](https://img.shields.io/badge/byteforgestudio.pk%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byteforgestudio.pk@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-21C7E8?style=for-the-badge&logo=netlify&logoColor=07111F)](https://byteforge-affan-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2ECFC2?style=for-the-badge&logo=linkedin&logoColor=07111F)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
+[![Email](https://img.shields.io/badge/EMAIL-FBC02D?style=for-the-badge&logo=gmail&logoColor=07111F)](mailto:byteforgestudio.pk@gmail.com)
 
-<br>
-
-**Thanks for visiting my profile.**
-
-<sub>Built with curiosity, code and the ByteForge mindset.</sub>
+<sub>Built under ByteForge Studio · Code → Create → Improve</sub>
 
 </div>
