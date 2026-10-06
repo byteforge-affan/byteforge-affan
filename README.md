@@ -83,49 +83,70 @@ const affan = {
 <tr>
 <td width="50%" valign="top">
 
-### ByteForge Portfolio
-My personal developer space — projects, capabilities and the evolving ByteForge identity.
+### ⚡ ByteForge Portfolio
+My developer portfolio showcasing selected projects, capabilities and the evolving ByteForge Studio identity.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Responsive Design`
 
-[Live ↗](https://byteforge-affan-portfolio.netlify.app/) · [Source →](https://github.com/byteforge-affan/my-portfolio)
+[**Live Demo ↗**](https://byteforge-affan-portfolio.netlify.app/) · [Source →](https://github.com/byteforge-affan/my-portfolio)
 
 </td>
 <td width="50%" valign="top">
 
-### Z&S Enterprises
-A business-facing website built around clear presentation, responsive structure and a professional company presence.
+### 📦 Z&S Enterprises
+Responsive business website for a packaging and printing company, designed around a clean professional company presence.
 
-`Business Web` `Responsive UI`
+`HTML` `CSS` `JavaScript` `Business Website`
 
-[Repository →](https://github.com/byteforge-affan/ZandS_Enterprises)
+[**Live Demo ↗**](https://zandsenterprises.com/) · [Source →](https://github.com/byteforge-affan/ZandS_Enterprises)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Shopping Website
-A practical shopping system exploring product flows, PHP/MySQL development and e-commerce logic.
+### 🛍️ Shopping Website
+A dynamic shopping system built while developing practical e-commerce workflows and PHP/MySQL application skills.
 
-`PHP` `MySQL` `Web System`
+`PHP` `MySQL` `Bootstrap` `E-commerce`
 
-[Repository →](https://github.com/byteforge-affan/Shopping-Website)
+[Source →](https://github.com/byteforge-affan/Shopping-Website)
 
 </td>
 <td width="50%" valign="top">
 
-### Paarees Perfume
-A product-focused perfume experience built with a premium visual direction and responsive frontend.
+### ✦ Paarees Perfume
+A luxury perfume website with product-focused presentation and a polished responsive frontend experience.
 
-`Frontend` `Bootstrap` `Product UI`
+`HTML` `CSS` `Bootstrap` `JavaScript`
 
-[Repository →](https://github.com/byteforge-affan/E-PROJECT-PAAREES-PERFUME-)
+[**Live Demo ↗**](https://paarees-luxury-scents.netlify.app/) · [Source →](https://github.com/byteforge-affan/E-PROJECT-PAAREES-PERFUME-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 Aurora
+A creative static frontend project focused on visual presentation and responsive web design.
+
+`HTML` `CSS` `JavaScript` `Creative Web`
+
+[**Live Demo ↗**](https://aurorasphere.netlify.app/) · [Source →](https://github.com/byteforge-affan/Aurora)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Jobix
+A recruitment and job-portal system combining frontend UI with PHP/MySQL application functionality.
+
+`PHP` `MySQL` `Bootstrap` `JavaScript`
+
+[Source →](https://github.com/byteforge-affan/Jobix)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## ◉ Developer Telemetry
