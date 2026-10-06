@@ -95,50 +95,40 @@ A responsive perfume website focused on premium product presentation and polishe
 
 ---
 
-## Development Snapshot
-
-<div align="center">
-
-| FRONTEND | BACKEND | DATABASE | WORKFLOW |
-| :---: | :---: | :---: | :---: |
-| HTML · CSS · JavaScript · Bootstrap | PHP · ASP.NET MVC | MySQL | Git · GitHub · VS Code |
-
-</div>
-
-> **Current direction:** turning frontend experience into complete, database-backed web applications.
-
-<div align="center">
-
-[**See my contribution activity on GitHub ↓**](https://github.com/byteforge-affan#js-contribution-activity)
-
-</div>
----
-
-## Current Focus
+## What I'm Building Now
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### BUILD
-Responsive interfaces and stronger real-world projects
+### ⚙️ Current Build
+**Responsive, database-backed web applications**
 
-</td>
-<td width="33%" align="center">
+Moving beyond frontend-only projects by connecting interface design with application logic and structured data.
 
-### LEARN
-PHP · MySQL · ASP.NET MVC · Database Design
+`PHP`　`MySQL`　`ASP.NET MVC`
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### GROW
-From frontend development toward full-stack products
+### ↗ Next Level
+**Complete full-stack product workflows**
+
+Improving backend architecture, database design and the way frontend, server logic and data work together.
+
+`BACKEND`　`DATABASES`　`FULL-STACK`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+**Core workflow**
+
+`HTML / CSS / JS` → `PHP / ASP.NET` → `MySQL` → `Git / GitHub`
+
+</div>
 ---
 
 <div align="center">
