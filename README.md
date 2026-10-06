@@ -1,18 +1,22 @@
 <div align="center">
 
-# `< Muhammad Affan />`
+### `BYTEFORGE STUDIO // DEV PROFILE`
 
-### Frontend Developer · Building toward Full-Stack
+# Muhammad Affan
 
-**Founder — ByteForge Studio**
+**Frontend Developer · Aspiring Full-Stack Developer**
 
-`DESIGN` · `DEVELOP` · `BUILD` · `EVOLVE`
+I build responsive interfaces, business websites and practical web systems.
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-21C7E8?style=for-the-badge&logo=netlify&logoColor=07111F)](https://byteforge-affan-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2ECFC2?style=for-the-badge&logo=linkedin&logoColor=07111F)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
+[![Email](https://img.shields.io/badge/EMAIL-FBC02D?style=for-the-badge&logo=gmail&logoColor=07111F)](mailto:byteforgestudio.pk@gmail.com)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-21C7E8?style=for-the-badge&logo=netlify&logoColor=07111F)](https://byteforge-affan-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-2ECFC2?style=for-the-badge&logo=linkedin&logoColor=07111F)](https://www.linkedin.com/in/muhammad-affan-27b96943b)
-[![Email](https://img.shields.io/badge/LET'S_TALK-FBC02D?style=for-the-badge&logo=gmail&logoColor=07111F)](mailto:byteforgestudio.pk@gmail.com)
+`FRONTEND`　•　`WEB SYSTEMS`　•　`UI CRAFT`　•　`CONTINUOUS LEARNING`
+
+<sub>DESIGN → DEVELOP → BUILD → EVOLVE</sub>
 
 </div>
 
