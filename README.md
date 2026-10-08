@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/byteforge-affan/my-portfolio/main/images/byteforge-logo.png" width="150" alt="ByteForge Studio" />
 
-<img src="assets/hero.svg" width="100%" alt="Muhammad Affan — Frontend Developer and aspiring Full-Stack Developer. ByteForge Studio. Currently building with PHP, MySQL and ASP.NET MVC." />
+<img src="assets/hero.svg" width="100%" alt="Muhammad Affan — Frontend-Focused Full-Stack Developer. ByteForge Studio. Currently building with PHP, MySQL and ASP.NET MVC." />
 
 <a href="https://byteforge-affan-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE_%E2%86%97-21C7E8?style=for-the-badge&labelColor=07111F" alt="View portfolio" /></a>
 <a href="https://www.linkedin.com/in/muhammad-affan-27b96943b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2ECFC2?style=for-the-badge&labelColor=07111F" alt="Connect on LinkedIn" /></a>
@@ -14,7 +14,7 @@
 
 <h3 align="center"><code>01 / ABOUT</code></h3>
 
-<img src="assets/about.svg" width="100%" alt="Muhammad Affan, frontend-focused developer from Karachi, Pakistan and aspiring full-stack developer. Current direction: PHP, MySQL, ASP.NET MVC and database-backed web applications." />
+<img src="assets/about.svg" width="100%" alt="Muhammad Affan, Frontend-Focused Full-Stack Developer based in Karachi, Pakistan. Current direction: PHP, MySQL, ASP.NET MVC and database-backed web applications." />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
