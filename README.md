@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/byteforge-affan/my-portfolio/main/images/byteforge-logo.png" width="150" alt="ByteForge Studio" />
+<img src="https://raw.githubusercontent.com/byteforge-affan/byteforge-portfolio/main/images/byteforge-logo.png" width="150" alt="ByteForge Studio" />
 
 <img src="assets/hero.svg" width="100%" alt="Muhammad Affan — Frontend-Focused Full-Stack Developer. ByteForge Studio. Currently building with PHP, MySQL and ASP.NET MVC." />
 
@@ -53,7 +53,7 @@
 
 <p align="center">
 <img src="assets/projects/portfolio.svg" width="100%" alt="ByteForge Portfolio — personal developer portfolio showcasing projects, capabilities and the ByteForge Studio identity. HTML, CSS, JavaScript, Responsive Design." /><br>
-<a href="https://byteforge-affan-portfolio.netlify.app/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/my-portfolio">Repository →</a>
+<a href="https://byteforge-affan-portfolio.netlify.app/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/byteforge-portfolio">Repository →</a>
 </p>
 
 <p align="center">
