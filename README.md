@@ -58,17 +58,17 @@
 
 <p align="center">
 <img src="assets/projects/zs-enterprises.svg" width="100%" alt="Z&amp;S Enterprises — responsive business website for a packaging and printing company. HTML, CSS, JavaScript." /><br>
-<a href="https://zandsenterprises.com/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/ZandS_Enterprises">Repository →</a>
+<a href="https://zandsenterprises.com/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/zs-enterprises">Repository →</a>
 </p>
 
 <p align="center">
 <img src="assets/projects/jobix.svg" width="100%" alt="Jobix — recruitment and job portal system with role-based workflows and PHP/MySQL application functionality. PHP, MySQL, Bootstrap, JavaScript." /><br>
-<a href="https://github.com/byteforge-affan/Jobix"><b>Repository →</b></a>
+<a href="https://github.com/byteforge-affan/jobix"><b>Repository →</b></a>
 </p>
 
 <p align="center">
 <img src="assets/projects/paarees.svg" width="100%" alt="Paarees Luxury Scents — responsive perfume website focused on premium product presentation. HTML, CSS, Bootstrap, JavaScript." /><br>
-<a href="https://paarees-luxury-scents.netlify.app/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/E-PROJECT-PAAREES-PERFUME-">Repository →</a>
+<a href="https://paarees-luxury-scents.netlify.app/"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/byteforge-affan/paarees-luxury-scents">Repository →</a>
 </p>
 
 <p align="center"><a href="https://github.com/byteforge-affan?tab=repositories"><sub><code>EXPLORE ALL REPOSITORIES →</code></sub></a></p>
